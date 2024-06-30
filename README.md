@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hemixx</h1>
+<h1 align="center">Hi 👋, I'm Hemix</h1>
 <h3 align="center">A passionate Full Stack developer from France</h3>
 
 - My name is Maximilien, currently studying Full-Stack Development at 3W Academy through an apprenticeship. **Based between Marseille and Aix-en-Provence.**
